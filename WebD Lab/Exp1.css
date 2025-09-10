@@ -1,0 +1,24 @@
+body{
+    background-color: lightgrey;
+}
+
+table{
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.first-row {
+    background-color: orange;
+}
+
+.second-row {
+    background-color: lightsalmon;
+}
+
+.third-row{
+    background-color: transparent;
+}
+th,td{
+    text-align: center;
+    padding: 10px;
+}
